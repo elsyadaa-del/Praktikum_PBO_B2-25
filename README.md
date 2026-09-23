@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistem Manajemen Penjualan Toko Skincare "Skin Studio"
 
 Program ini dibuat untuk tugas praktikum PBO, dengan tema toko skincare bernama Skin Studio. Konsep OOP yang dipakai mengikuti tiga modul yang sudah dipelajari: Class & Object, Atribut & Method, serta Encapsulation & Property.
@@ -32,3 +33,6 @@ Di bagian bawah `main.py`, program ini:
 - Nyoba setter dengan input valid dan tidak valid, buat buktiin validasinya jalan (misal masukin harga -1000, programnya bakal nolak dan kasih pesan error, bukan malah nerima nilai itu)
 
 Tinggal jalanin filenya dan lihat outputnya di terminal, semua langkah pengujian sudah tercetak urut.
+=======
+# Praktikum_PBO_B2-25
+>>>>>>> c165a4ba04d88349fd07ea41dcc367eb75289007
