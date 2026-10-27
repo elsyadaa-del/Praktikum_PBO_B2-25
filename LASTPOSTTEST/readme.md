@@ -6,9 +6,9 @@ Jalankan dengan: `python main.py`
 
 ## 1. Class Diagram
 
-![Class Diagram](class_diagram.svg)
+![Class Diagram](class_diagram.drawio.svg)
 
-File sumber diagram (bisa dibuka dan diedit di draw.io): [`class_diagram.drawio`](class_diagram.drawio)
+File sumber diagram (bisa dibuka dan diedit di draw.io): [`class_diagram.drawio`](class_diagram.drawio.svg)
 
 Notasi mengikuti modul: panah putus-putus untuk asosiasi, belah ketupat kosong untuk agregasi, belah ketupat penuh untuk komposisi, dan segitiga kosong untuk pewarisan.
 
